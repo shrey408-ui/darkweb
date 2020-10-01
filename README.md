@@ -1,4 +1,4 @@
-# Darkwed- an evil place
+# Dark web- an evil place
 
 This used to be the repository holding the DarkScience website, that has been
 moved to https://git.drk.sc/darkscience/darkscience.net.
